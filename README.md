@@ -1,4 +1,4 @@
-Submission Awal : Aplikasi Dicoding Event 
+Gambaran  Aplikasi Dicoding Event 
 
 
 ![WhatsApp Image 2025-01-07 at 03 47 22_3609e18f](https://github.com/user-attachments/assets/925f4aa5-aa5c-4dbf-a308-73deda69bc7d)
