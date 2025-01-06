@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aplikasi Dicoding Event</string>
+    <string name="title_home">Up Coming</string>
+    <string name="title_dashboard">Finish Event</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="judul_event">Your text here</string>
+    <string name="buttonDetail">button\n</string>
+    <string name="image_content_description">ini string\n</string>
+    <string name="title">ini textview\n</string>
+    <string name="description">ini deskripsi</string>
+
+    <string name="owner_name">Nama Penyelenggara</string>
+    <string name="event_time">Waktu Acara</string>
+    <string name="quota_info">Sisa Kuota</string>
+    <string name="dark_mode" />
+    <string name="setting">Setting</string>
+    <string name="Setting">Setting</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite</string>
+    <string name="Favorite">Favorite</string>
+    <string name="no_favorites" />
+
+</resources>
